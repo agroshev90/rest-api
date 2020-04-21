@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "rest api fullstack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agroshev90/rest-api.git"
+  },
+  "keywords": [
+    "js",
+    "rest",
+    "api"
+  ],
+  "author": "Anton Groshev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agroshev90/rest-api/issues"
+  },
+  "homepage": "https://github.com/agroshev90/rest-api#readme"
+}

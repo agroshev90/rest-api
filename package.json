@@ -4,7 +4,8 @@
   "description": "rest api fullstack application",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start ": "node app.js",
+    "dev ": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/agroshev90/rest-api/issues"
   },
-  "homepage": "https://github.com/agroshev90/rest-api#readme"
+  "homepage": "https://github.com/agroshev90/rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "uuid": "^7.0.3"
+  }
 }
